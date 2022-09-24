@@ -1,6 +1,6 @@
 # SurrealDB Playground Docs
 
-https://jellyfish-app-zw44x.ondigitalocean.app
+https://surrealdb.daisoncarino.com
 
 Curated lists of useful queries.
 
