@@ -1,0 +1,24 @@
+{
+  "name": "surrealdb-query-docs",
+  "version": "1.0.2",
+  "description": "https://jellyfish-app-zw44x.ondigitalocean.app",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daison12006013/surrealdb-playground.git"
+  },
+  "keywords": [
+    "surrealdb",
+    "playground",
+    "documentation"
+  ],
+  "author": "Daison Carino",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daison12006013/surrealdb-playground/issues"
+  },
+  "homepage": "https://github.com/daison12006013/surrealdb-playground#readme"
+}
