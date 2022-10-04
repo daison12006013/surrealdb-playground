@@ -1,6 +1,6 @@
 {
   "name": "surrealdb-query-docs",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "https://jellyfish-app-zw44x.ondigitalocean.app",
   "main": "index.ts",
   "scripts": {
