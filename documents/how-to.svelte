@@ -16,17 +16,18 @@
 	<pre class="mb-0">surreal start --log trace --user root --pass root memory</pre>
 	<p class="mt-1">
 		To explain above command, I am going to start my surrealdb using a <strong>username</strong> and
-		<strong>password</strong> as <i class="badge rounded badge-accent">root</i>, at the same time to
-		use machine's memory as the storage.
+		<strong>password</strong> as <i class="badge rounded badge-accent">root</i> and at the same time
+		to use the machine's memory as the storage.
 	</p>
 
 	<div class="alert alert-warning italic text-sm">
-		Using a memory based storage has its on caveat; once you stopped the script - all the schema /
-		data be wiped out, the other way around is to use a file base, see below this paragraph.
+		Using a memory based storage has its own caveat; once you stopped the script - all of the schema
+		/ data will be wiped out, this is good for architecturing your tables / scopes, the other way
+		around is to use a file base, see below this paragraph.
 	</div>
 
 	<p class="mb-1">
-		You can provide a file base using <i class="badge rounded badge-accent"
+		You can provide a file based storage using <i class="badge rounded badge-accent"
 			>file://surreal-testing.db</i
 		>, perhaps follow below command.
 	</p>

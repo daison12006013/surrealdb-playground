@@ -1,7 +1,15 @@
 const documents: { [key: string]: { [key: string]: any } } = {
+  'what-is-surrealdb': {
+    showRepl: false,
+    title: 'What is SurrealDB?',
+  },
+  'repl-playground': {
+    showRepl: false,
+    title: 'R.E.P.L.',
+  },
   'how-to': {
     showRepl: false,
-    title: 'How to?',
+    title: 'How to install and Run?',
   },
   'define-namespace': {
     showRepl: true,
